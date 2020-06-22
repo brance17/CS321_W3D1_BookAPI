@@ -1,0 +1,6 @@
+/Users/Brance/Desktop/API/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.csprojAssemblyReference.cache
+/Users/Brance/Desktop/API/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.AssemblyInfoInputs.cache
+/Users/Brance/Desktop/API/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.AssemblyInfo.cs
+/Users/Brance/Desktop/API/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.csproj.CoreCompileInputs.cache
+/Users/Brance/Desktop/API/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.RazorAssemblyInfo.cache
+/Users/Brance/Desktop/API/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.RazorAssemblyInfo.cs
